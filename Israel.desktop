@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Israel
+Comment=Israel music!!!
+Exec=python3 /opt/Israel_app/main.py
+Icon=/opt/Israel_app/icon.png
+Terminal=false
+Type=Application
+Categories=Education;
